@@ -15,7 +15,7 @@
     "hbs": "~4.0.4",
     "http-errors": "~1.6.3",
     "jwt-simple": "^0.5.1",
-    "moment": "^2.20.1",
+    "moment": "^2.29.2",
     "mongoose": "^5.0.1",
     "mongoose-pagination": "^1.0.0",
     "morgan": "~1.9.1",
